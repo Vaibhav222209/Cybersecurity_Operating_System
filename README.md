@@ -34,7 +34,7 @@ Nothing here is a screenshot. Every window drags, every command executes, every 
 ### Run it locally
 
 ```bash
-git clone https://github.com/vaibhavthakur/kaveri-os.git
+git clone https://github.com/Vaibhav222209/Cybersecurity_Operating_System.git
 cd kaveri-os
 npm install
 npm run dev        # → http://localhost:5173
@@ -114,7 +114,7 @@ The OS contains a browsable copy of this very repository at `~/github/kaveri-os`
 
 - open it in **Files** (sidebar → `github / kaveri-os`),
 - run `` `github` `` in the terminal,
-- or visit `github.com/vaibhavthakur/kaveri-os` in the **Kaveri Browser** (GitHub-style page: file table, commit bar, releases, languages, rendered README).
+- or visit `github.com/Vaibhav222209/Cybersecurity_Operating_System` in the **Kaveri Browser** (GitHub-style page: file table, commit bar, releases, languages, rendered README).
 
 Includes `README.md`, `LICENSE`, `CONTRIBUTING.md`, `SECURITY.md`, `install.sh`, `src/kernel.ts`, `src/firewall.ts` and `.github/workflows/ci.yml`.
 
